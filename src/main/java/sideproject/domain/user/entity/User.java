@@ -1,7 +1,7 @@
-package sideproject.domain.user.domain;
+package sideproject.domain.user.entity;
 
 import lombok.*;
-import sideproject.global.domain.BaseTime;
+import sideproject.global.entity.BaseTime;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

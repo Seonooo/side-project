@@ -1,4 +1,4 @@
-package sideproject.global.domain;
+package sideproject.global.entity;
 
 import lombok.Getter;
 import org.springframework.data.annotation.CreatedDate;
